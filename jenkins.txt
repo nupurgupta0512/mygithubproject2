@@ -1,0 +1,31 @@
+What is Jenkins?
+Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
+Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed
+
+Jenkins can be executed in 3 ways 
+can be installed as service msi
+can be installed as web application
+can be installed as Exe
+
+We are installing jenkins through web application : by downloading war file, running the war file and opening localhost:8080 in browser
+
+We have connected EC2 instance Ubuntu to GIT bash . Now Ubuntu is opened as VM on GIT bash 
+
+https://fts.capgemini.com/private/42620987481727/Jenkins6thMay2019900amto6...-MondayMay06201910.26.09AM.mp4 link valid until 2019-05-13 6:00 UTC (SSO protected)
+https://fts.capgemini.com/private/42620987481727/Jenkins6thMay2019900amto6...-MondayMay06201910.02.51AM.mp4 
+
+Configure jenkins:
+env of jenkins can be set here, like for java
+
+configure global security
+define access level, user based access, 
+
+configure credentials
+creating login which have authorization
+
+global tool configuration
+able to add more tools, 
+
+system log:
+log captured by jenkins
+
